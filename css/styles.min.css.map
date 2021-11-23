@@ -1,8 +1,17 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AEAA,AAAA,QAAQ,AAAA,CACJ,gBAAgB,CDAJ,OAAO,CCCtB,ACFD,AAAA,OAAO,AAAA,CACH,gBAAgB,CFQA,OAAO,CEP1B,ACFD,AAAA,SAAS,AAAA,CACL,gBAAgB,CHGF,OAAO,CGFxB,ACFD,AAAA,SAAS,AAAA,CACL,gBAAgB,CJMC,IAAI,CILxB,ACDI,AAAD,gBAAW,AAAC,CACR,gBAAgB,CLDR,OAAO,CKElB,AACA,AAAD,eAAU,AAAC,CACP,gBAAgB,CLCH,OAAO,CKAvB,ACNL,AAAA,MAAM,AAAA,CACF,gBAAgB,CNGF,OAAO,CMFxB,ACFD,AAAA,OAAO,AAAA,CACH,gBAAgB,CPGF,OAAO,COFxB,ACFD,AAAA,QAAQ,AAAA,CACJ,gBAAgB,CRQA,OAAO,CQP1B",
     "sources": [
-        "../scss/styles.scss"
+        "../scss/styles.scss",
+        "../scss/_base.scss",
+        "../scss/_sidebar.scss",
+        "../scss/_header.scss",
+        "../scss/_realtors.scss",
+        "../scss/_features.scss",
+        "../scss/_story.scss",
+        "../scss/_homes.scss",
+        "../scss/_footer.scss",
+        "../scss/_gallery.scss"
     ],
     "names": [],
     "file": "styles.min.css"
